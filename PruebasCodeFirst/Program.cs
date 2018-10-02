@@ -10,7 +10,7 @@ namespace PruebasCodeFirst
     {
         static void Main(string[] args)
         {
-            var test = 0;
+            var test = 1;
         }
     }
 }
